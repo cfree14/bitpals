@@ -1,0 +1,25 @@
+theme,order,color,hex_code,rgb_code
+dunkin,1,orange,#f3831c,"rgb(243, 131, 28)"
+dunkin,2,pink,#e31484,"rgb(227, 20, 132)"
+dunkin,3,brown,#6a3b18,"rgb(106, 59, 24)"
+dunkin,4,beige,#f0cabc,"rgb(240, 202, 188)"
+seinfeld,1,yellow,#fad13f,"rgb(250, 209, 63)"
+seinfeld,2,red,#e52c32,"rgb(229, 44, 50)"
+seinfeld,3,dark blue,#1d4b9b,"rgb(29, 75, 155)"
+seinfeld,4,light blue,#0cb2c6,"rgb(12, 178, 198)"
+seinfeld,5,brown,#3c1910,"rgb(60, 25, 16)"
+monopoly,7,brown,#874b1d,"rgb(135, 75, 29)"
+monopoly,6,light blue,#98d1f0,"rgb(152, 209, 240)"
+monopoly,5,pink,#d32884,"rgb(211, 40, 132)"
+monopoly,4,red,#da0928,"rgb(218, 9, 40)"
+monopoly,3,yellow,#eaeb35,"rgb(234, 235, 53)"
+monopoly,2,green,#03ac59,"rgb(3, 172, 89)"
+monopoly,1,dark blue,#3e64ab,"rgb(62, 100, 171)"
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
