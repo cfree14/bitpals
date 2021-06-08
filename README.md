@@ -1,4 +1,4 @@
-bitpals Bit's color palettes
+bitpals: Bit's color palettes
 ======================================================================
 
 Installation
