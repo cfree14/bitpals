@@ -1,6 +1,13 @@
 bitpals: Bit's color palettes
 ======================================================================
 
+The package provides Monopoly, Seinfeld, and Dunkin Donuts-themed color palettes for R.
+
+The package includes the following two functions:
+
+- Display the folor palettes: `?display_bitpals`
+- Retrieve one of the color palettes: `?bitpal`
+
 Installation
 ------------
 
